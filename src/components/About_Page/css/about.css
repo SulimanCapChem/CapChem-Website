@@ -1,0 +1,122 @@
+.container {
+    width: 250px;
+}
+
+.our-team{
+    padding: 20px 5px 10px;
+    background: #f2eee8;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    margin-top: 200px;
+}
+.our-team .pic{
+    display: inline-block;
+    background: #f2eee8;
+    padding: 10px;
+    margin-bottom: 25px;
+    transition: all 0.5s ease 0s;
+}
+.our-team:hover .pic{
+    background: #17bebb;
+    border-radius: 20%;
+}
+.pic img{
+    width: 200px;
+    height: 250px;
+    border-radius: 20%;
+}
+.our-team .title{
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    color: #2e282a;
+    text-transform: uppercase;
+    margin: 0 0 7px 0;
+}
+.our-team .post{
+    display: block;
+    font-size: 15px;
+    color: #17bebb;
+    text-transform: capitalize;
+    margin-bottom: 15px;
+}
+.our-team .social{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.our-team .social li{
+    display: inline-block;
+    margin-right: 5px;
+}
+.our-team .social li a{
+    display: block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #17bebb;
+    border: 1px solid #17bebb;
+    transition: all 0.5s ease 0s;
+}
+.our-team:hover .social li a{
+    background: #17bebb;
+    color: #fff;
+}
+@media only screen and (max-width: 990px){
+    .our-team{ margin-bottom: 30px; }
+}
+
+button {
+    display: inline-block;
+    position: relative;
+    border-radius: 50px;
+    /*background: #00c9b7;*/
+    width: 180px;
+    height: 50px;
+    position: relative;
+    /*color: #fff;*/
+    font-size: 0.97em;
+    letter-spacing: 0.094em;
+    cursor: pointer;
+    -webkit-box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+    text-align: center;
+    margin: 0 auto;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+    text-transform: uppercase;
+    margin-top: 60px;
+    margin-left: 400px;
+}
+
+#Engineering-Button {
+    color: #fff;
+    background: #00c9b7;
+
+}
+#Business-Button {
+    background: transparent;
+    color: white;
+    margin-left: 80px;
+}
+
+#Business-Button:hover {
+    background: #00c9b7;
+}
+
+#header-vertical-text {
+    word-wrap: break-word;
+    width: 0;
+    text-align: center;
+    color: white;
+    margin: 0 auto 2em;
+}
+
+
+button:hover {
+    box-shadow: transparent;
+}
