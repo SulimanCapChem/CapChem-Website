@@ -61,7 +61,7 @@ class About extends Component {
                             </div>
                             <div className="cube p3">
                                 <div className="name">
-                                    <h1>Tim Cook</h1>
+                                    <h1>Tim Cheek</h1>
                                     <p>Junior Engineer</p>
                                 </div>
                                 <div className="innerBorder"></div>
