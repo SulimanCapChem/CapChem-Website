@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "main.css": "static/css/main.9595283c.css",
   "main.css.map": "static/css/main.9595283c.css.map",
   "main.js": "static/js/main.6b1d0915.js",
@@ -10,4 +11,19 @@
   "static\\media\\samantha_profile_picture.jpg": "static/media/samantha_profile_picture.22d392b7.jpg",
   "static\\media\\suliman_sharif_profile.png": "static/media/suliman_sharif_profile.4839c784.png",
   "static\\media\\tim_profile.jpeg": "static/media/tim_profile.cf232c9d.jpeg"
+=======
+  "main.css": "static/css/main.4c7cb417.css",
+  "main.css.map": "static/css/main.4c7cb417.css.map",
+  "main.js": "static/js/main.3a523859.js",
+  "main.js.map": "static/js/main.3a523859.js.map",
+  "static/media/contact.svg": "static/media/contact.d755840f.svg",
+  "static/media/design.svg": "static/media/design.5bfeda81.svg",
+  "static/media/hand.svg": "static/media/hand.e8fa8413.svg",
+  "static/media/home.svg": "static/media/home.d2e88493.svg",
+  "static/media/manage.svg": "static/media/manage.ab082935.svg",
+  "static/media/product.svg": "static/media/product.6f65ff85.svg",
+  "static/media/projects.svg": "static/media/projects.2af0987f.svg",
+  "static/media/suliman_sharif_profile.png": "static/media/suliman_sharif_profile.4839c784.png",
+  "static/media/team.svg": "static/media/team.f79034cc.svg"
+>>>>>>> 1bc255ba2c809132cd161aa1d54f4c79e8e25796
 }
