@@ -5,7 +5,6 @@ import LandingPage from '../../Landing_Page/js/landingpage';
 import AboutMe from '../../About_Page/js/aboutme';
 import Contact from '../../Contact_Page/js/contact';
 import Projects from '../../Projects_Page/js/projects';
-import Resume from '../../resume';
 
 
 const Main = () => (
